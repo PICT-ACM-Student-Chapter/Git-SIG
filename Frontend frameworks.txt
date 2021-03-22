@@ -1,7 +1,12 @@
 Angular 
 
 
+
 Samyak:
 react 
 vue js
+
+
+Reaact
+Vie.je
 
