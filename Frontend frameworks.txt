@@ -18,4 +18,8 @@ React
 Vue.js
 bootstrap
 
+Maanav:
+Next.js
+SvelteS
+
 
