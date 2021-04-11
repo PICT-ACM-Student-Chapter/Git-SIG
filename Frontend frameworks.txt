@@ -1,3 +1,26 @@
+Angular
+jQuery
+Bootstrap
 Angular 
 
+
 TEST BY SAMYAK
+
+
+Samyak:
+react 
+vue js
+
+
+Reaact
+Vie.je
+
+Pranit:
+React
+Vue.js
+bootstrap
+
+Maanav:
+Next.js
+SvelteS
+
